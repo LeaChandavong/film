@@ -34,4 +34,4 @@ Projet conçu en équipe avec : Lea, Naomi
 - Le rythme du montage : Rapide et cohérant
 - Un moodboard (3 à 5 images de référence) :
 
-![Moodboard](C:\Users\2381101\Downloads\IMG_6699.jpeg)
+![Moodboard](https://ca.pinterest.com/pin/798403840265536198/)
