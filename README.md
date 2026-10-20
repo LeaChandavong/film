@@ -32,6 +32,6 @@ Projet conçu en équipe avec : Lea, Naomi
 - La palette de couleurs : Noir, blanc, gris, mauve
 - L'éclairage : sombre,
 - Le rythme du montage : Rapide et cohérant
-- Un moodboard (3 à 5 images de référence) :
+- Un moodboard (3 à 5 images de référence) : https://ca.pinterest.com/pin/798403840265536198/
 
-![Moodboard]([moodboard.jpg](https://ca.pinterest.com/pin/798403840265536198/))
+![Moodboard]([moodboard.jpg)
