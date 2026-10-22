@@ -1,6 +1,6 @@
 # Adams Family Values Mansion
 
-Projet conçu en équipe avec : Lea, Naomi
+Projet conçu en équipe avec : Lea, Naomi, Kyana
 
 ## Le concept et l'audience
 
@@ -12,7 +12,7 @@ Projet conçu en équipe avec : Lea, Naomi
 
 - Le début : Morticia à eu un nouveau bébé nommer Pubert, le manoir accueillie Pubert en décorant sa chambre de façon approprié en vue de la famille. De façon gothique, sombre et dangereux.
 - Le milieu : La séparation de oncle Fester et les autres membres de la famille trouble Pubert et le manoir, ce qui crée un changement physique dans la chambre de Pubert. Le manoir a changé la chambre de Pubert en une ambiance plus clair, harmonisé et joyeux, ce qui le trouble.  La ex-femme de oncle Fester essaye de tuer les Adams.
-- Le revirement (plot twist) : Le manoir averti Pubert pour qu'il sauvent a famille. Pour l'aider, le manoir fait tomber des planches de bois et des objets pour guider et éventuellement amener Pubert vers sa famille qui est emprisonner. La femme meurt en se faisant électrocuter.
+- Le revirement (plot twist) : Le manoir averti Pubert pour qu'il sauvent sa famille. Pour l'aider, le manoir fait tomber des planches de bois et des objets pour guider et éventuellement amener Pubert vers sa famille qui est emprisonner. La femme meurt en se faisant électrocuter.
 - La fin : La famille est sain et sauf et le manoir revient en son état normal, content que tout est redevenu normal.
 
 ## Le personnage principal
